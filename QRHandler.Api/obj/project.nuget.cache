@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7kkoskKx7h0BZi9wScM0NGpdOtYEC2dhxSdfkJDoAckDvP/mSfb/aqJotl1C9ObyaXsyABTXxOmnX8iJGkluw==",
+  "success": true,
+  "projectFilePath": "E:\\MyProject\\QRHandler\\QRHandler.Api\\QrHandler.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
